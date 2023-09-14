@@ -10,5 +10,12 @@ voici l'analyse des besoins, je note ici que ces besoins évolue en fonction du 
 - fonctionnalité de recherche
 - fonctionnalité de filtrage de produit
 - affichage de nombre d'article disponible
-
-## Identification des utilisateurs
+- une interface de gestion des produits (ajout, mise à jour des données)
+- paiement enligne
+## Identification des utilisateurs:
+- les clients du site 
+- les personnels responsables du site
+## Description des processus métier : 
+- achat de produit par les clients
+- regroupement dans un panier 
+- système de paiement enligne et de facturation
